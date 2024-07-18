@@ -1,0 +1,3 @@
+ABSTRACTION: Hiding the implementation details of a class and only showing the essential features to the user
+
+ENCAPSULATION: Wraaping data and functions into a single unit
