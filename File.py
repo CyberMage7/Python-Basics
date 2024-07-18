@@ -14,3 +14,12 @@ print(line2)
 
 line3 = f.readline()
 print(line3)
+
+f.close()
+
+
+# to delete a file:
+
+# import os
+
+# os.remove("filename.txt")
