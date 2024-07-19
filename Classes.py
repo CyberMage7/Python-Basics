@@ -1,4 +1,5 @@
 class Student:
+    __name = "anynmous"                  #Declaration of private variables(bu double underscore __)
     clg_name = "JIIT Sec-62"             #Class Attribute same for all objects
     def __init__(self, first, last):     #self is the object created of class
         print("Constructor is being created")

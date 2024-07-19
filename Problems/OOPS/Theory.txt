@@ -1,3 +1,8 @@
 ABSTRACTION: Hiding the implementation details of a class and only showing the essential features to the user
 
 ENCAPSULATION: Wraaping data and functions into a single unit
+
+
+Muli-level Inheritance: Parent -> Derived1 -> Derived2
+
+Multiple Inheritance: Parent1 + Parent1 -> Derived
